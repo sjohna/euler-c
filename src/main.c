@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "euler1.c"
+#include "euler2.c"
 
 int main() {
-    printf("%d\n", euler1_loop());
+    printf("%d\n", euler2_loop());
 }
