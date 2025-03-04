@@ -1,1 +1,1 @@
-gcc src/main.c -o euler && ./euler
+gcc src/main.c -o build/host/euler && ./build/host/euler
